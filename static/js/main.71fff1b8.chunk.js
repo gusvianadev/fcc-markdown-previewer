@@ -1,0 +1,2 @@
+(this["webpackJsonpfcc-markdown-previewer"]=this["webpackJsonpfcc-markdown-previewer"]||[]).push([[0],{9:function(e,n,c){"use strict";c.r(n);var r=c(1),t=c.n(r),o=c(3),i=c.n(o),s=c(0),d=function(){return console.log("hey"),Object(s.jsx)("div",{children:"mkdwn"})};i.a.render(Object(s.jsx)(t.a.StrictMode,{children:Object(s.jsx)(d,{})}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.71fff1b8.chunk.js.map
