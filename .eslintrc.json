@@ -7,8 +7,7 @@
 		"eslint:recommended",
 		"plugin:react/recommended",
 		"airbnb",
-		"prettier",
-		"plugin:prettier/recommended"
+		"prettier"
 	],
 	"parserOptions": {
 		"ecmaFeatures": {
@@ -17,12 +16,13 @@
 		"ecmaVersion": 12,
 		"sourceType": "module"
 	},
-	"plugins": ["react", "prettier"],
+	"plugins": ["react"],
 	"rules": {
 		"consistent-return": "off",
 		"no-tabs": 0,
 		"indent": "off",
 		"object-curly-newline": "off",
+		"global-require": "off",
 		"no-unused-vars": "warn",
 		"no-param-reassign": [
 			"error",
