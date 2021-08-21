@@ -24,13 +24,8 @@
 		"object-curly-newline": "off",
 		"global-require": "off",
 		"no-unused-vars": "warn",
-		"no-param-reassign": [
-			"error",
-			{
-				"props": true,
-				"ignorePropertyModificationsFor": ["state", "e"]
-			}
-		],
+		"no-param-reassign": "off",
+		"no-return-assign": "off",
 		"no-unused-expressions": [
 			"error",
 			{ "allowTernary": true, "allowShortCircuit": true }
